@@ -1,13 +1,13 @@
 # Roblox Alt Ban Bypasser
 
-A simple Windows batch script to bypass Roblox bans by clearing LocalStorage data or spoofing MAC addresses. Has a colorful command-line interface.
+A simple Windows batch script to bypass Roblox bans by clearing LocalStorage data or spoofing MAC addresses.
 
 ## Features
 
-- Clears Roblox LocalStorage data to bypass bans.
+- Clears Roblox LocalStorage data to bypass alt bans.
 - Randomized mode with 1-5 second delay.
 - Spoofs MAC address for selected network adapter.
-- Easy-to-use menu with color.
+- Easy-to-use menu!
 
 ## Requirements
 
@@ -42,4 +42,4 @@ For educational use only. Not responsible for bans or misuse. Follow Roblox’s 
 
 ## License
 
-MIT License. See [LICENSE](LICENSE) file.
+Licensed under the GNU Affero General Public License v3.0. See the LICENSE file for details.
