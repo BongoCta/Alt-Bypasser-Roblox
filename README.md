@@ -16,7 +16,7 @@ A simple Windows batch script to bypass Roblox bans by clearing LocalStorage dat
 
 ## Installation
 
-1. Clone or download `RobloxAltBanBypasserWithMAC.bat`:
+1. Clone or download `alt_bypass.bat`:
    ```bash
    git clone https://github.com/BongoCta/Alt-Bypasser-Roblox.git
    ```
